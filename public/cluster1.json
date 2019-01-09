@@ -1,0 +1,86 @@
+{
+    "nodes": [{
+        "name": "Liam",
+        "group": 1
+    }, {
+        "name": "Georgi",
+        "group": 1
+    }, {
+        "name": "Pablo",
+        "group": 1
+    }, {
+        "name": "Gabriel",
+        "group": 1
+    }, {
+        "name": "Arthur",
+        "group": 1
+    }, {
+        "name": "Hristo",
+        "group": 2
+    }, {
+        "name": "Daan",
+        "group": 2
+    }, {
+        "name": "David",
+        "group": 2
+    }, {
+        "name": "Louis",
+        "group": 3
+    }, {
+        "name": "George",
+        "group": 3
+    }, {
+        "name": "Frank",
+        "group": 3
+    }],
+    "links": [{
+        "source": 0,
+        "target": 1
+    },{
+        "source": 0,
+        "target": 2
+    },{
+        "source": 0,
+        "target": 3
+    },{
+        "source": 0,
+        "target": 4
+    },{
+        "source": 1,
+        "target": 2
+    },{
+        "source": 1,
+        "target": 3
+    },{
+        "source": 1,
+        "target": 4
+    },{
+        "source": 2,
+        "target": 3
+    },{
+        "source": 2,
+        "target": 4
+    },{
+        "source": 0,
+        "target": 5
+    },{
+        "source": 5,
+        "target": 6
+    },{
+        "source": 5,
+        "target": 7
+    },{
+        "source": 0,
+        "target": 8
+    },{
+        "source": 0,
+        "target": 9
+    },{
+        "source": 0,
+        "target": 10
+    },{
+        "source": 8,
+        "target": 7
+    }],
+     "colors": ["#6b5b95", "#feb236", "#d64161"]
+}
