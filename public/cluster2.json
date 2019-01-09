@@ -1,36 +1,36 @@
 {
     "nodes": [{
-        "name": "Alba",
+        "name": "MySQL",
         "group": 1
     }, {
-        "name": "Julia",
+        "name": "MongoDB",
         "group": 1
     }, {
-        "name": "Chloe",
+        "name": "MariaDB",
         "group": 1
     }, {
-        "name": "Giorgia",
+        "name": "PostgreSQL",
         "group": 1
     }, {
-        "name": "Gaia",
+        "name": "DB2",
         "group": 1
     }, {
-        "name": "Daniela",
+        "name": "H2",
         "group": 2
     }, {
-        "name": "Laia",
+        "name": "DynamoDB",
         "group": 2
     }, {
-        "name": "Lotte",
+        "name": "CouchDB",
         "group": 2
     }, {
-        "name": "Adele",
+        "name": "RealTime",
         "group": 3
     }, {
-        "name": "Alice",
+        "name": "RavenDB",
         "group": 3
     }, {
-        "name": "Lieke",
+        "name": "Cosmos",
         "group": 3
     }],
     "links": [{

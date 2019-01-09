@@ -1,36 +1,36 @@
 {
     "nodes": [{
-        "name": "Liam",
+        "name": "JavaScript",
         "group": 1
     }, {
-        "name": "Georgi",
+        "name": "Java",
         "group": 1
     }, {
-        "name": "Pablo",
+        "name": "C++",
         "group": 1
     }, {
-        "name": "Gabriel",
+        "name": "C",
         "group": 1
     }, {
-        "name": "Arthur",
+        "name": "Pascal",
         "group": 1
     }, {
-        "name": "Hristo",
+        "name": "Scala",
         "group": 2
     }, {
-        "name": "Daan",
+        "name": "C#",
         "group": 2
     }, {
-        "name": "David",
+        "name": "Python",
         "group": 2
     }, {
-        "name": "Louis",
+        "name": "Groovy",
         "group": 3
     }, {
-        "name": "George",
+        "name": "Go",
         "group": 3
     }, {
-        "name": "Frank",
+        "name": "Dart",
         "group": 3
     }],
     "links": [{
