@@ -1,6 +1,19 @@
-
 .App-bg {
-    background-color: rgb(236, 250, 255);
+  background-color: rgb(236, 250, 255);
+}
+
+.jumbotron-fluid {
+  position: relative;
+  width: 40rm;
+}
+
+.jumbotron-fluid .container-fluid {
+  position: relative;
+  z-index: 2;
 }
 
  
+
+.AppHeader {
+    font-size: 1.5rem;
+}

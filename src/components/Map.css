@@ -1,25 +1,22 @@
 .link {
-    stroke: #ccc;
+  stroke: #ccc;
 }
 
-
 button {
-    
-    border: none;
-    color: white;
-    margin: .5rem .5rem .5rem .5rem;
-    padding: 5rem 5rem 5rem 5rem;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16rem;
+  border: none;
+  color: white;
+  margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+  padding: 5rem 5rem 5rem 5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16rem;
 }
 
 .c1 {
-    background-color: #6b5b95;
+  background-color: #2d00cf;
 }
 
 .c2 {
-    background-color: #588c7e; 
+  background-color: #588c7e;
 }
-
