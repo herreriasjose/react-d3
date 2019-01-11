@@ -4,12 +4,13 @@ import "./bootstrap/css/bootstrap.css";
 import "./App.css";
 import Layout from "./containers/Layout";
 import Map from "./components/Map";
+import Footer from "./components/Footer";
 
 class App extends Component {
   render() {
     return (
       <div className="App App-bg ">
-        <header className="App-header jumbotron App-bg jumbotron-fluid">
+        <header className="App-header App-bg jumbotron-fluid">
           <div className="col-md-12">
             <div className="row">
               <div className="col-1 col-sm-1 col-md-1 col-lg-4 col-xl-4" />
@@ -25,7 +26,9 @@ class App extends Component {
         <Layout>
           <Map size={[window.innerWidth / 1.1, window.innerHeight / 2]} />
         </Layout>
+        <Footer/>
       </div>
+      
     );
   }
 }

@@ -161,14 +161,14 @@ class Map extends Component {
     return (
       <div>
         <div className="">
-          <h6 className="d-flex justify-content-center">Graph using a force layout: Cluster {this.state.cluster}</h6>
+          
          
-          <svg
+          <svg className="d-flex justify-content-center"
             ref={node => (this.node = node)}
             width={this.state.width}
             height={this.state.height}
           />
-      
+        <h6 className="d-flex justify-content-center">Graph using a force layout: Cluster {this.state.cluster}</h6>
         </div>
         <div className="d-flex justify-content-center">
           <button
