@@ -1,5 +1,5 @@
 
-A Serverless React & D3 App using ~~AWS~~ Firebase
+A Serverless React & D3 App using Firebase
 ==============================================
 
 About
