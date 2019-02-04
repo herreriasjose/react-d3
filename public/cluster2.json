@@ -1,9 +1,9 @@
 {
     "nodes": [{
-        "name": "MySQL",
+        "name": "SQL",
         "group": 1
     }, {
-        "name": "MongoDB",
+        "name": "MySQL",
         "group": 1
     }, {
         "name": "MariaDB",
@@ -24,7 +24,7 @@
         "name": "CouchDB",
         "group": 2
     }, {
-        "name": "RealTime",
+        "name": "MongoDB",
         "group": 3
     }, {
         "name": "RavenDB",

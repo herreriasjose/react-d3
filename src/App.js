@@ -5,6 +5,7 @@ import "./App.css";
 import Layout from "./containers/Layout";
 import Map from "./components/Map";
 import Footer from "./components/Footer";
+import Info from "./components/Info";
 
 class App extends Component {
   render() {
@@ -18,7 +19,9 @@ class App extends Component {
                 <h1 className="App-title text-primary d-flex justify-content-center ">
                   A Serverless React & D3 App using Firebase
                 </h1>
+                <Info/>
               </div>
+              
               <div className="col-1 col-sm-1 col-md-1 col-lg-4 col-xl-4" />
             </div>
           </div>
